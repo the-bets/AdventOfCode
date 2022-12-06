@@ -26,7 +26,6 @@ def two(l: list) -> int:
     return prio
 
 
-base = set(string.ascii_letters)
 with open("inputs/day03.txt") as f:
     l = f.read().splitlines()
 one = one(l)
