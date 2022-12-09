@@ -155,3 +155,6 @@ poetry.toml
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,kotlin
 
 inputs/
+requirements.txt
+
+.vscode/settings.json
